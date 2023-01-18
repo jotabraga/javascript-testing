@@ -1,5 +1,6 @@
 {
   "name": "javascript-testing",
+  "type": "module",
   "version": "1.0.0",
   "description": "unit test class content",
   "main": "index.js",
