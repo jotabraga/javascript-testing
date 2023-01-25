@@ -62,4 +62,3 @@ export class File {
 
 const result = await File.csvToJson("../mocks/threeItems-valid.csv");
 // const result = await File.csvToJson("../mocks/emptyFile-invalid.csv");
-console.log("result", result);

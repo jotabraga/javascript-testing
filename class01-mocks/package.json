@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jotabraga/javascript-testing/issues"
   },
-  "homepage": "https://github.com/jotabraga/javascript-testing#readme"
+  "homepage": "https://github.com/jotabraga/javascript-testing#readme",
+  "dependencies": {
+    "undici": "^5.16.0"
+  }
 }
