@@ -1,6 +1,6 @@
 import { Service } from "./service.js";
 
-const URL_1 = "https://swapi.dev/api/people/1/";
+const URL_1 = "https://swapi.dev/api/people/2/";
 
 const service = new Service();
 const withoutStub = await service.makeRequest(URL_1);
